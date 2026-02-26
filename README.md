@@ -1,3 +1,14 @@
+Problem Statement:
+
+Early detection of breast cancer significantly increases survival rates, but manual diagnosis based on multiple tumor characteristics can be complex and time-consuming.
+
+The objective of this project is to develop a machine learning classification model that predicts whether a tumor is malignant or benign based on diagnostic measurements. The goal is to assist in early detection by improving prediction accuracy and reducing misclassification risk.
+
+
+
+
+
+
 Project Overview
 
 
